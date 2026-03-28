@@ -1,2 +1,5 @@
-﻿.DS_Store
+.DS_Store
 node_modules/
+
+# Local full-size photo source (optimized copies live in assets/)
+IMG_0994.PNG
